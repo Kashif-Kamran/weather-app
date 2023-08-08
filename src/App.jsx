@@ -35,6 +35,7 @@ function App()
           <Route element={<UserProtectedRoute />}>
             <Route path="/favourites" element={<Favourites />} />
           </Route>
+          <Route path="*" element={<Navigate to="/" />} />
         </Route>
       </Routes>
     </Provider>
