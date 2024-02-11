@@ -26,6 +26,8 @@ This web weather application was created with the aim of learning React, Redux T
    
 4. Explore the weather data displayed on the application interface.
 ```
+## Interface 
+![Weather](https://github.com/Kashif-Kamran/weather-app/assets/80104444/b05d8172-998c-43bb-bd6b-3a48a377e067)
 
 ## Technologies Used
 - React
