@@ -1,8 +1,39 @@
-# React + Vite
+# Web Weather Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This web weather application was created with the aim of learning React, Redux Toolkit, and Tailwind CSS. It serves as a project for gaining hands-on experience with modern frontend development technologies. The application provides weather information based on user input and utilizes Vite for rapid development and bundling.
 
-Currently, two official plugins are available:
+## Installation
+```
+1. Clone the repository to your local machine:
+   git clone https://github.com/your_username/your_repository.git
+   
+2. Navigate to the project directory:
+   cd your_repository
+   
+3. Install dependencies:
+   npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+```
+1. Start the development server:
+   npm run dev
+   
+2. Open your web browser and navigate to http://localhost:3000.
+   
+3. Enter the location for which you want to view the weather information.
+   
+4. Explore the weather data displayed on the application interface.
+```
+
+## Technologies Used
+- React
+- Redux Toolkit
+- Tailwind CSS
+- Vite
+
+## License
+```
+This project is licensed under the [MIT License](LICENSE).
+```
