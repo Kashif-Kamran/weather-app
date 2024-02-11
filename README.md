@@ -6,10 +6,10 @@ This web weather application was created with the aim of learning React, Redux T
 ## Installation
 ```
 1. Clone the repository to your local machine:
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Kashif-Kamran/weather-app.git
    
 2. Navigate to the project directory:
-   cd your_repository
+   cd weather-app
    
 3. Install dependencies:
    npm install
