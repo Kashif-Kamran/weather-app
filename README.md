@@ -20,7 +20,7 @@ This web weather application was created with the aim of learning React, Redux T
 1. Start the development server:
    npm run dev
    
-2. Open your web browser and navigate to http://localhost:3000.
+2. Open your web browser and navigate to http://localhost:5713.
    
 3. Enter the location for which you want to view the weather information.
    
